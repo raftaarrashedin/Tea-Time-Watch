@@ -26,6 +26,8 @@ mkdir src
 npm i -D nodemon
 npm i nodemon
 ```
+
+# Made some file and also changed the package.json file
 ```
 type nul > app.js
 type nul > index.js
