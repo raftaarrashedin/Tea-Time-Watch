@@ -1,6 +1,13 @@
 # Tea-Time-Watch
 We can say this is a web app like Youtube.
 
+# Author Name
+
+```
+    MD RASHEDIN
+    MD AMANULLAH
+```
+
 # Initialization of git and npm
 ```
 git init
